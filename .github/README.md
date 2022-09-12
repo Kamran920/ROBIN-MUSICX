@@ -1,4 +1,4 @@
-<h2 align="centre">---- ʟᴜᴄᴋʏ ✘ ᴍᴜꜱɪᴄx ---- </h2>
+<h2 align="centre">---- Robin ✘ Music x ---- </h2>
 
 ### </i>**ʟᴜᴄᴋʏ ᴍᴜꜱɪᴄx ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...**</i>
 
@@ -20,7 +20,7 @@
 </details>
 <pre>
 <b><i>••ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/mrluckyxd/LUCKY-MUSICX"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Kamran920/ROBIN-MUSICX."><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 ## ᴡᴏʀᴋꜰʟᴏᴡꜱ
